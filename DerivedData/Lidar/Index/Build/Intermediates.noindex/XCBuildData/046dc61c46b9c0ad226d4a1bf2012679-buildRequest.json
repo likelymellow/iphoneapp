@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "67868abcaaad8c977ffa78c6ef2bf3f4de563b0d42663668bec542a099a96212"
+    }
+  ],
+  "containerPath" : "/Users/aeliusventure/Documents/GitHub/iphoneapp/Lidar.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/aeliusventure/Documents/GitHub/iphoneapp/DerivedData/Lidar/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/aeliusventure/Documents/GitHub/iphoneapp/DerivedData/Lidar/Index/Build/Products",
+      "derivedDataPath" : "/Users/aeliusventure/Documents/GitHub/iphoneapp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/aeliusventure/Documents/GitHub/iphoneapp/DerivedData/Lidar/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/aeliusventure/Documents/GitHub/iphoneapp/DerivedData/Lidar/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/aeliusventure/Documents/GitHub/iphoneapp/DerivedData/Lidar/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/aeliusventure/Documents/GitHub/iphoneapp/DerivedData/Lidar/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

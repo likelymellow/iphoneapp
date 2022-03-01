@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/aeliusventure/Downloads/Lidar-main 2/Lidar.xcodeproj">
    </FileRef>
 </Workspace>

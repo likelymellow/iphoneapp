@@ -3,40 +3,39 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 55;
+	objectVersion = 50;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5FE3692127C6D477006F2301 /* LidarApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE3691127C6D477006F2301 /* LidarApp.swift */; };
-		5FE3692227C6D477006F2301 /* LidarApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE3691127C6D477006F2301 /* LidarApp.swift */; };
-		5FE3692327C6D477006F2301 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE3691227C6D477006F2301 /* ContentView.swift */; };
-		5FE3692427C6D477006F2301 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE3691227C6D477006F2301 /* ContentView.swift */; };
-		5FE3692527C6D477006F2301 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5FE3691327C6D477006F2301 /* Assets.xcassets */; };
-		5FE3692627C6D477006F2301 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5FE3691327C6D477006F2301 /* Assets.xcassets */; };
-		5FE3693327C6D611006F2301 /* Scan.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FE3693127C6D611006F2301 /* Scan.storyboard */; };
-		5FE3693427C6D611006F2301 /* ScanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE3693227C6D611006F2301 /* ScanViewController.swift */; };
+		1E758FB725D74127001F6BA2 /* Scan.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E758FB625D74127001F6BA2 /* Scan.storyboard */; };
+		1E758FBC25D7412F001F6BA2 /* ScanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E758FBB25D7412F001F6BA2 /* ScanViewController.swift */; };
+		1EEE225A25A7039B00706DE8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EEE225925A7039B00706DE8 /* AppDelegate.swift */; };
+		1EEE225E25A7039B00706DE8 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 1EEE225D25A7039B00706DE8 /* Experience.rcproject */; };
+		1EEE226125A7039B00706DE8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1EEE225F25A7039B00706DE8 /* Main.storyboard */; };
+		1EEE226325A7039C00706DE8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EEE226225A7039C00706DE8 /* Assets.xcassets */; };
+		1EEE226625A7039C00706DE8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1EEE226425A7039C00706DE8 /* LaunchScreen.storyboard */; };
+		1EF1910525C605A5005064FC /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EF1910425C605A5005064FC /* MenuViewController.swift */; };
+		1EF1910A25C605D2005064FC /* MenuDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EF1910925C605D2005064FC /* MenuDataSource.swift */; };
+		1EF1911225C607E3005064FC /* MenuItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EF1911125C607E3005064FC /* MenuItemCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		5FE3691127C6D477006F2301 /* LidarApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LidarApp.swift; sourceTree = "<group>"; };
-		5FE3691227C6D477006F2301 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		5FE3691327C6D477006F2301 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		5FE3691827C6D477006F2301 /* Lidar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lidar.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		5FE3691E27C6D477006F2301 /* Lidar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lidar.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		5FE3692027C6D477006F2301 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
-		5FE3693127C6D611006F2301 /* Scan.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Scan.storyboard; sourceTree = "<group>"; };
-		5FE3693227C6D611006F2301 /* ScanViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScanViewController.swift; sourceTree = "<group>"; };
+		1E758FB625D74127001F6BA2 /* Scan.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Scan.storyboard; sourceTree = "<group>"; };
+		1E758FBB25D7412F001F6BA2 /* ScanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanViewController.swift; sourceTree = "<group>"; };
+		1EEE225625A7039B00706DE8 /* Lidar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lidar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1EEE225925A7039B00706DE8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		1EEE225D25A7039B00706DE8 /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
+		1EEE226025A7039B00706DE8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		1EEE226225A7039C00706DE8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1EEE226525A7039C00706DE8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		1EEE226725A7039C00706DE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1EF1910425C605A5005064FC /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		1EF1910925C605D2005064FC /* MenuDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuDataSource.swift; sourceTree = "<group>"; };
+		1EF1911125C607E3005064FC /* MenuItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5FE3691527C6D477006F2301 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		5FE3691B27C6D477006F2301 /* Frameworks */ = {
+		1EEE225325A7039B00706DE8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -46,168 +45,165 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5FE3690B27C6D477006F2301 = {
+		1E758FB525D74113001F6BA2 /* Scan */ = {
 			isa = PBXGroup;
 			children = (
-				5FE3693127C6D611006F2301 /* Scan.storyboard */,
-				5FE3693227C6D611006F2301 /* ScanViewController.swift */,
-				5FE3691027C6D477006F2301 /* Shared */,
-				5FE3691F27C6D477006F2301 /* macOS */,
-				5FE3691927C6D477006F2301 /* Products */,
+				1E758FB625D74127001F6BA2 /* Scan.storyboard */,
+				1E758FBB25D7412F001F6BA2 /* ScanViewController.swift */,
+			);
+			path = Scan;
+			sourceTree = "<group>";
+		};
+		1EEE224D25A7039B00706DE8 = {
+			isa = PBXGroup;
+			children = (
+				1EEE225825A7039B00706DE8 /* Lidar */,
+				1EEE225725A7039B00706DE8 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		5FE3691027C6D477006F2301 /* Shared */ = {
+		1EEE225725A7039B00706DE8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5FE3691127C6D477006F2301 /* LidarApp.swift */,
-				5FE3691227C6D477006F2301 /* ContentView.swift */,
-				5FE3691327C6D477006F2301 /* Assets.xcassets */,
-			);
-			path = Shared;
-			sourceTree = "<group>";
-		};
-		5FE3691927C6D477006F2301 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				5FE3691827C6D477006F2301 /* Lidar.app */,
-				5FE3691E27C6D477006F2301 /* Lidar.app */,
+				1EEE225625A7039B00706DE8 /* Lidar.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5FE3691F27C6D477006F2301 /* macOS */ = {
+		1EEE225825A7039B00706DE8 /* Lidar */ = {
 			isa = PBXGroup;
 			children = (
-				5FE3692027C6D477006F2301 /* macOS.entitlements */,
+				1EEE225925A7039B00706DE8 /* AppDelegate.swift */,
+				1EEE225D25A7039B00706DE8 /* Experience.rcproject */,
+				1EEE225F25A7039B00706DE8 /* Main.storyboard */,
+				1EF1910425C605A5005064FC /* MenuViewController.swift */,
+				1EF1911125C607E3005064FC /* MenuItemCell.swift */,
+				1EF1910925C605D2005064FC /* MenuDataSource.swift */,
+				1EF190F925C60405005064FC /* Samples */,
+				1EEE226225A7039C00706DE8 /* Assets.xcassets */,
+				1EEE226425A7039C00706DE8 /* LaunchScreen.storyboard */,
+				1EEE226725A7039C00706DE8 /* Info.plist */,
 			);
-			path = macOS;
+			path = Lidar;
+			sourceTree = "<group>";
+		};
+		1EF190F925C60405005064FC /* Samples */ = {
+			isa = PBXGroup;
+			children = (
+				1E758FB525D74113001F6BA2 /* Scan */,
+			);
+			path = Samples;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5FE3691727C6D477006F2301 /* Lidar (iOS) */ = {
+		1EEE225525A7039B00706DE8 /* Lidar */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5FE3692927C6D477006F2301 /* Build configuration list for PBXNativeTarget "Lidar (iOS)" */;
+			buildConfigurationList = 1EEE228025A7039C00706DE8 /* Build configuration list for PBXNativeTarget "Lidar" */;
 			buildPhases = (
-				5FE3691427C6D477006F2301 /* Sources */,
-				5FE3691527C6D477006F2301 /* Frameworks */,
-				5FE3691627C6D477006F2301 /* Resources */,
+				1EEE225225A7039B00706DE8 /* Sources */,
+				1EEE225325A7039B00706DE8 /* Frameworks */,
+				1EEE225425A7039B00706DE8 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Lidar (iOS)";
-			productName = "Lidar (iOS)";
-			productReference = 5FE3691827C6D477006F2301 /* Lidar.app */;
-			productType = "com.apple.product-type.application";
-		};
-		5FE3691D27C6D477006F2301 /* Lidar (macOS) */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 5FE3692C27C6D477006F2301 /* Build configuration list for PBXNativeTarget "Lidar (macOS)" */;
-			buildPhases = (
-				5FE3691A27C6D477006F2301 /* Sources */,
-				5FE3691B27C6D477006F2301 /* Frameworks */,
-				5FE3691C27C6D477006F2301 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "Lidar (macOS)";
-			productName = "Lidar (macOS)";
-			productReference = 5FE3691E27C6D477006F2301 /* Lidar.app */;
+			name = Lidar;
+			productName = Lidar;
+			productReference = 1EEE225625A7039B00706DE8 /* Lidar.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		5FE3690C27C6D477006F2301 /* Project object */ = {
+		1EEE224E25A7039B00706DE8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1320;
-				LastUpgradeCheck = 1320;
+				LastSwiftUpdateCheck = 1230;
+				LastUpgradeCheck = 1230;
 				TargetAttributes = {
-					5FE3691727C6D477006F2301 = {
-						CreatedOnToolsVersion = 13.2.1;
-					};
-					5FE3691D27C6D477006F2301 = {
-						CreatedOnToolsVersion = 13.2.1;
+					1EEE225525A7039B00706DE8 = {
+						CreatedOnToolsVersion = 12.3;
 					};
 				};
 			};
-			buildConfigurationList = 5FE3690F27C6D477006F2301 /* Build configuration list for PBXProject "Lidar" */;
-			compatibilityVersion = "Xcode 13.0";
+			buildConfigurationList = 1EEE225125A7039B00706DE8 /* Build configuration list for PBXProject "Lidar" */;
+			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 5FE3690B27C6D477006F2301;
-			productRefGroup = 5FE3691927C6D477006F2301 /* Products */;
+			mainGroup = 1EEE224D25A7039B00706DE8;
+			productRefGroup = 1EEE225725A7039B00706DE8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5FE3691727C6D477006F2301 /* Lidar (iOS) */,
-				5FE3691D27C6D477006F2301 /* Lidar (macOS) */,
+				1EEE225525A7039B00706DE8 /* Lidar */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		5FE3691627C6D477006F2301 /* Resources */ = {
+		1EEE225425A7039B00706DE8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5FE3692527C6D477006F2301 /* Assets.xcassets in Resources */,
-				5FE3693327C6D611006F2301 /* Scan.storyboard in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		5FE3691C27C6D477006F2301 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5FE3692627C6D477006F2301 /* Assets.xcassets in Resources */,
+				1EEE226625A7039C00706DE8 /* LaunchScreen.storyboard in Resources */,
+				1EEE226325A7039C00706DE8 /* Assets.xcassets in Resources */,
+				1E758FB725D74127001F6BA2 /* Scan.storyboard in Resources */,
+				1EEE226125A7039B00706DE8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		5FE3691427C6D477006F2301 /* Sources */ = {
+		1EEE225225A7039B00706DE8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5FE3692327C6D477006F2301 /* ContentView.swift in Sources */,
-				5FE3692127C6D477006F2301 /* LidarApp.swift in Sources */,
-				5FE3693427C6D611006F2301 /* ScanViewController.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		5FE3691A27C6D477006F2301 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5FE3692427C6D477006F2301 /* ContentView.swift in Sources */,
-				5FE3692227C6D477006F2301 /* LidarApp.swift in Sources */,
+				1EEE225A25A7039B00706DE8 /* AppDelegate.swift in Sources */,
+				1EF1910525C605A5005064FC /* MenuViewController.swift in Sources */,
+				1EF1910A25C605D2005064FC /* MenuDataSource.swift in Sources */,
+				1EF1911225C607E3005064FC /* MenuItemCell.swift in Sources */,
+				1E758FBC25D7412F001F6BA2 /* ScanViewController.swift in Sources */,
+				1EEE225E25A7039B00706DE8 /* Experience.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXVariantGroup section */
+		1EEE225F25A7039B00706DE8 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1EEE226025A7039B00706DE8 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		1EEE226425A7039C00706DE8 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1EEE226525A7039C00706DE8 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
 /* Begin XCBuildConfiguration section */
-		5FE3692727C6D477006F2301 /* Debug */ = {
+		1EEE227E25A7039C00706DE8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
@@ -252,21 +248,23 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		5FE3692827C6D477006F2301 /* Release */ = {
+		1EEE227F25A7039C00706DE8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
@@ -305,163 +303,80 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
-			};
-			name = Release;
-		};
-		5FE3692A27C6D477006F2301 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = R9K4BX5972;
-				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = Scan;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.av.testapp.Lidar;
-				PRODUCT_NAME = Lidar;
-				SDKROOT = iphoneos;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		5FE3692B27C6D477006F2301 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = R9K4BX5972;
-				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = Scan;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.av.testapp.Lidar;
-				PRODUCT_NAME = Lidar;
-				SDKROOT = iphoneos;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		5FE3692D27C6D477006F2301 /* Debug */ = {
+		1EEE228125A7039C00706DE8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = macOS/macOS.entitlements;
-				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = R9K4BX5972;
-				ENABLE_HARDENED_RUNTIME = YES;
-				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = Lidar/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
-					"@executable_path/../Frameworks",
+					"@executable_path/Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 12.1;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.av.testapp.Lidar;
-				PRODUCT_NAME = Lidar;
-				SDKROOT = macosx;
-				SWIFT_EMIT_LOC_STRINGS = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.av.test.lidar;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		5FE3692E27C6D477006F2301 /* Release */ = {
+		1EEE228225A7039C00706DE8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = macOS/macOS.entitlements;
-				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = R9K4BX5972;
-				ENABLE_HARDENED_RUNTIME = YES;
-				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = Lidar/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
-					"@executable_path/../Frameworks",
+					"@executable_path/Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 12.1;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.av.testapp.Lidar;
-				PRODUCT_NAME = Lidar;
-				SDKROOT = macosx;
-				SWIFT_EMIT_LOC_STRINGS = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.av.test.lidar;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5FE3690F27C6D477006F2301 /* Build configuration list for PBXProject "Lidar" */ = {
+		1EEE225125A7039B00706DE8 /* Build configuration list for PBXProject "Lidar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5FE3692727C6D477006F2301 /* Debug */,
-				5FE3692827C6D477006F2301 /* Release */,
+				1EEE227E25A7039C00706DE8 /* Debug */,
+				1EEE227F25A7039C00706DE8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5FE3692927C6D477006F2301 /* Build configuration list for PBXNativeTarget "Lidar (iOS)" */ = {
+		1EEE228025A7039C00706DE8 /* Build configuration list for PBXNativeTarget "Lidar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5FE3692A27C6D477006F2301 /* Debug */,
-				5FE3692B27C6D477006F2301 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		5FE3692C27C6D477006F2301 /* Build configuration list for PBXNativeTarget "Lidar (macOS)" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				5FE3692D27C6D477006F2301 /* Debug */,
-				5FE3692E27C6D477006F2301 /* Release */,
+				1EEE228125A7039C00706DE8 /* Debug */,
+				1EEE228225A7039C00706DE8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 5FE3690C27C6D477006F2301 /* Project object */;
+	rootObject = 1EEE224E25A7039B00706DE8 /* Project object */;
 }

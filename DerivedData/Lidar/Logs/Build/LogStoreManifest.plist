@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>02CC2338-682D-4D72-B679-DD06ECDAA05B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>02CC2338-682D-4D72-B679-DD06ECDAA05B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lidar project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lidar</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Lidar</string>
+			<key>timeStartedRecording</key>
+			<real>667568095.76594198</real>
+			<key>timeStoppedRecording</key>
+			<real>667568098.01399398</real>
+			<key>title</key>
+			<string>Build Lidar</string>
+			<key>uniqueIdentifier</key>
+			<string>02CC2338-682D-4D72-B679-DD06ECDAA05B</string>
+		</dict>
+		<key>03A119DA-5D97-4013-A96F-965CD988B8FC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>03A119DA-5D97-4013-A96F-965CD988B8FC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lidar project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lidar</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Lidar</string>
+			<key>timeStartedRecording</key>
+			<real>667568245.19210994</real>
+			<key>timeStoppedRecording</key>
+			<real>667568246.34356105</real>
+			<key>title</key>
+			<string>Build Lidar</string>
+			<key>uniqueIdentifier</key>
+			<string>03A119DA-5D97-4013-A96F-965CD988B8FC</string>
+		</dict>
+		<key>110CD5EB-AE5B-453E-A310-88C5F4C9B6EA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>110CD5EB-AE5B-453E-A310-88C5F4C9B6EA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lidar project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lidar</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Lidar</string>
+			<key>timeStartedRecording</key>
+			<real>667568489.92710495</real>
+			<key>timeStoppedRecording</key>
+			<real>667568497.38641095</real>
+			<key>title</key>
+			<string>Build Lidar</string>
+			<key>uniqueIdentifier</key>
+			<string>110CD5EB-AE5B-453E-A310-88C5F4C9B6EA</string>
+		</dict>
+		<key>49F83F0A-A58E-4369-813B-143506AE6CAB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>49F83F0A-A58E-4369-813B-143506AE6CAB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lidar project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lidar</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Lidar</string>
+			<key>timeStartedRecording</key>
+			<real>667568813.42289102</real>
+			<key>timeStoppedRecording</key>
+			<real>667568814.33777797</real>
+			<key>title</key>
+			<string>Build Lidar</string>
+			<key>uniqueIdentifier</key>
+			<string>49F83F0A-A58E-4369-813B-143506AE6CAB</string>
+		</dict>
+		<key>9F296C31-491E-479B-A85E-B6A412C483C4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9F296C31-491E-479B-A85E-B6A412C483C4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lidar project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lidar</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Lidar</string>
+			<key>timeStartedRecording</key>
+			<real>667568567.568645</real>
+			<key>timeStoppedRecording</key>
+			<real>667568568.27283001</real>
+			<key>title</key>
+			<string>Build Lidar</string>
+			<key>uniqueIdentifier</key>
+			<string>9F296C31-491E-479B-A85E-B6A412C483C4</string>
+		</dict>
+		<key>BEF59203-F20D-4E03-A84D-99EBAA293DFB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BEF59203-F20D-4E03-A84D-99EBAA293DFB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lidar project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lidar</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Lidar</string>
+			<key>timeStartedRecording</key>
+			<real>667568768.31444001</real>
+			<key>timeStoppedRecording</key>
+			<real>667568769.29612994</real>
+			<key>title</key>
+			<string>Build Lidar</string>
+			<key>uniqueIdentifier</key>
+			<string>BEF59203-F20D-4E03-A84D-99EBAA293DFB</string>
+		</dict>
+		<key>C2BD9640-1565-4464-9EBA-8A73453AB143</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C2BD9640-1565-4464-9EBA-8A73453AB143.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lidar project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lidar</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Lidar</string>
+			<key>timeStartedRecording</key>
+			<real>667568266.125175</real>
+			<key>timeStoppedRecording</key>
+			<real>667568267.26139796</real>
+			<key>title</key>
+			<string>Build Lidar</string>
+			<key>uniqueIdentifier</key>
+			<string>C2BD9640-1565-4464-9EBA-8A73453AB143</string>
+		</dict>
+		<key>D776707A-3183-47E9-8950-0DC8CA1E49B8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D776707A-3183-47E9-8950-0DC8CA1E49B8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lidar project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lidar</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Lidar</string>
+			<key>timeStartedRecording</key>
+			<real>667568790.77329803</real>
+			<key>timeStoppedRecording</key>
+			<real>667568791.40342498</real>
+			<key>title</key>
+			<string>Build Lidar</string>
+			<key>uniqueIdentifier</key>
+			<string>D776707A-3183-47E9-8950-0DC8CA1E49B8</string>
+		</dict>
+		<key>ED0F623C-7BE2-48A2-8F31-E8116191615A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ED0F623C-7BE2-48A2-8F31-E8116191615A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lidar project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lidar</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean Lidar</string>
+			<key>timeStartedRecording</key>
+			<real>667568255.47103798</real>
+			<key>timeStoppedRecording</key>
+			<real>667568255.63276803</real>
+			<key>title</key>
+			<string>Clean Lidar</string>
+			<key>uniqueIdentifier</key>
+			<string>ED0F623C-7BE2-48A2-8F31-E8116191615A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
